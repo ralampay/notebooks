@@ -30,7 +30,7 @@ build/
 
 # Ignore jupyter notebook checkpoints
 notebooks/**/.ipynb_checkpoints/
-./.ipynb_checkpoints/
+./**/.ipynb_checkpoints/
 
 # Ignore env
 env/
